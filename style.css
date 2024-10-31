@@ -80,13 +80,13 @@ nav a { text-decoration: none;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: beige;
+    background-color:azure;
 }
 .c4{
     margin-top: 160px;
     flex-wrap: wrap;
     justify-content: space-around;
-background-color: beige;  
+background-color: azure;  
 }
 .man{
     margin-top: 50px;
